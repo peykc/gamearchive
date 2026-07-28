@@ -4,642 +4,641 @@
 
 ## Platforms
 
-| Platform | Format | Titles |
-| --- | --- | ---: |
-| **[Game Boy](#game-boy)** <img src="./icons/game-boy.svg" height="20" valign="middle" alt=""> | `.gb` | 35 |
-| **[Game Boy Advance](#game-boy-advance)** <img src="./icons/game-boy-advance.svg" height="20" valign="middle" alt=""> | `.gba` | 39 |
-| **[Game Boy Color](#game-boy-color)** <img src="./icons/game-boy-color.svg" height="20" valign="middle" alt=""> | `.gbc` | 26 |
-| **[GameCube](#gamecube)** <img src="./icons/gamecube.svg" height="20" valign="middle" alt=""> | `.iso` | 46 |
-| **[NES](#nes)** <img src="./icons/nes.svg" height="20" valign="middle" alt=""> | `.nes` | 42 |
-| **[Nintendo 64](#nintendo-64)** <img src="./icons/nintendo-64.svg" height="20" valign="middle" alt=""> | `.n64 / .z64` | 40 |
-| **[Nintendo DS](#nintendo-ds)** <img src="./icons/nintendo-ds.svg" height="20" valign="middle" alt=""> | `.nds` | 12 |
-| **[PlayStation 2](#playstation-2)** <img src="./icons/playstation-2.svg" height="20" valign="middle" alt=""> | `.iso` | 118 |
-| **[PlayStation 3](#playstation-3)** <img src="./icons/playstation-3.svg" height="20" valign="middle" alt=""> | `folder / .pkg` | 29 |
-| **[PlayStation 4](#playstation-4)** <img src="./icons/playstation-4.svg" height="20" valign="middle" alt=""> | `folder` | 2 |
-| **[SNES](#snes)** <img src="./icons/snes.svg" height="20" valign="middle" alt=""> | `.sfc` | 56 |
-| **[Nintendo Switch](#nintendo-switch)** <img src="./icons/nintendo-switch.svg" height="20" valign="middle" alt=""> | `folder` | 14 |
-| **[Wii](#wii)** <img src="./icons/wii.svg" height="20" valign="middle" alt=""> | `.iso / .wbfs` | 22 |
-| **[Wii U](#wii-u)** <img src="./icons/wii-u.svg" height="20" valign="middle" alt=""> | `.wux` | 16 |
-| **[Xbox 360](#xbox-360)** <img src="./icons/xbox-360.svg" height="20" valign="middle" alt=""> | `.iso` | 11 |
-| **[PC](#pc)** <img src="./icons/pc.svg" height="20" valign="middle" alt=""> | `.zip` | 31 |
+| Platform | Titles |
+| --- | ---: |
+| **[Game Boy](#game-boy)** <img src="./icons/game-boy.svg" height="20" valign="middle" alt=""> | 35 |
+| **[Game Boy Advance](#game-boy-advance)** <img src="./icons/game-boy-advance.svg" height="20" valign="middle" alt=""> | 39 |
+| **[Game Boy Color](#game-boy-color)** <img src="./icons/game-boy-color.svg" height="20" valign="middle" alt=""> | 26 |
+| **[GameCube](#gamecube)** <img src="./icons/gamecube.svg" height="20" valign="middle" alt=""> | 46 |
+| **[NES](#nes)** <img src="./icons/nes.svg" height="20" valign="middle" alt=""> | 42 |
+| **[Nintendo 64](#nintendo-64)** <img src="./icons/nintendo-64.svg" height="20" valign="middle" alt=""> | 40 |
+| **[Nintendo DS](#nintendo-ds)** <img src="./icons/nintendo-ds.svg" height="20" valign="middle" alt=""> | 12 |
+| **[PlayStation 2](#playstation-2)** <img src="./icons/playstation-2.svg" height="20" valign="middle" alt=""> | 118 |
+| **[PlayStation 3](#playstation-3)** <img src="./icons/playstation-3.svg" height="20" valign="middle" alt=""> | 29 |
+| **[PlayStation 4](#playstation-4)** <img src="./icons/playstation-4.svg" height="20" valign="middle" alt=""> | 2 |
+| **[SNES](#snes)** <img src="./icons/snes.svg" height="20" valign="middle" alt=""> | 56 |
+| **[Nintendo Switch](#nintendo-switch)** <img src="./icons/nintendo-switch.svg" height="20" valign="middle" alt=""> | 14 |
+| **[Wii](#wii)** <img src="./icons/wii.svg" height="20" valign="middle" alt=""> | 22 |
+| **[Wii U](#wii-u)** <img src="./icons/wii-u.svg" height="20" valign="middle" alt=""> | 16 |
+| **[Xbox 360](#xbox-360)** <img src="./icons/xbox-360.svg" height="20" valign="middle" alt=""> | 11 |
+| **[PC](#pc)** <img src="./icons/pc.svg" height="20" valign="middle" alt=""> | 31 |
 
 ---
 
 ## Game Boy <img src="./icons/game-boy.svg" height="28" valign="middle" alt="">
 
-`35 titles` · `.gb`
+`35 titles`
 
-- Adventure Island II: Aliens in Paradise
-- Adventure Island
-- Aladdin
-- Battletoads
-- Bomberman GB
-- Castlevania: The Adventure
-- Castlevania II: Belmont's Revenge
-- Castlevania Legends
-- Contra: The Alien Wars
-- Donkey Kong
-- Dr. Mario
-- DuckTales
-- Game & Watch Gallery
-- Golf
-- Kirby's Dream Land 2
-- Kirby's Dream Land
-- Mega Man: Dr. Wily's Revenge
-- Mega Man II
-- Mega Man III
-- Mega Man IV
-- Mega Man V
-- Mortal Kombat II
-- Mortal Kombat
-- Ninja Gaiden Shadow
-- Pac-Man
-- Pokemon: Blue Version
-- Pokemon: Red Version
-- Pokemon: Yellow Version: Special Pikachu Edition
-- Super Mario Land
-- Tennis
-- Tetris
-- The Amazing Spider-Man
-- The Legend of Zelda: Link's Awakening
-- Yoshi's Cookie
-- Yoshi
+- Adventure Island II: Aliens in Paradise.gb
+- Adventure Island.gb
+- Aladdin.gb
+- Battletoads.gb
+- Bomberman GB.gb
+- Castlevania: The Adventure.gb
+- Castlevania II: Belmont's Revenge.gb
+- Castlevania Legends.gb
+- Contra: The Alien Wars.gb
+- Donkey Kong.gb
+- Dr. Mario.gb
+- DuckTales.gb
+- Game & Watch Gallery.gb
+- Golf.gb
+- Kirby's Dream Land 2.gb
+- Kirby's Dream Land.gb
+- Mega Man: Dr. Wily's Revenge.gb
+- Mega Man II.gb
+- Mega Man III.gb
+- Mega Man IV.gb
+- Mega Man V.gb
+- Mortal Kombat II.gb
+- Mortal Kombat.gb
+- Ninja Gaiden Shadow.gb
+- Pac-Man.gb
+- Pokemon: Blue Version.gb
+- Pokemon: Red Version.gb
+- Pokemon: Yellow Version: Special Pikachu Edition.gb
+- Super Mario Land.gb
+- Tennis.gb
+- Tetris.gb
+- The Amazing Spider-Man.gb
+- The Legend of Zelda: Link's Awakening.gb
+- Yoshi's Cookie.gb
+- Yoshi.gb
 
 ## Game Boy Advance <img src="./icons/game-boy-advance.svg" height="28" valign="middle" alt="">
 
-`39 titles` · `.gba`
+`39 titles`
 
-- Aladdin
-- Alien Hominid
-- Banjo-Kazooie: Grunty's Revenge
-- Bomberman Tournament
-- Castlevania: Aria of Sorrow
-- Castlevania: Circle of the Moon
-- Castlevania: Harmony of Dissonance
-- Crash Bandicoot: The Huge Adventure
-- Crash Bandicoot 2: N-Tranced
-- Deal or No Deal
-- Donkey Kong Country 2
-- Donkey Kong Country 3
-- Donkey Kong Country
-- Doom II
-- Doom
-- Duke Nukem Advance
-- Lara Croft Tomb Raider: The Prophecy
-- Mario & Luigi: Superstar Saga
-- Mario Golf: Advance Tour
-- Mario Kart: Super Circuit
-- Mario Party Advance
-- Mario vs. Donkey Kong
-- Max Payne
-- Mega Man Zero 2
-- Mega Man Zero 3
-- Mega Man Zero 4
-- Mega Man Zero
-- Metal Slug Advance
-- Metroid: Zero Mission
-- Pokemon: Emerald Version
-- Pokemon: FireRed Version
-- Pokemon: LeafGreen Version
-- Pokemon: Ruby Version
-- Pokemon: Sapphire Version
-- Pokemon Mystery Dungeon: Red Rescue Team
-- Pokemon Pinball: Ruby & Sapphire
-- Sonic The Hedgehog: Genesis
-- The Legend of Zelda: A Link to the Past & Four Swords
-- The Legend of Zelda: The Minish Cap
+- Aladdin.gba
+- Alien Hominid.gba
+- Banjo-Kazooie: Grunty's Revenge.gba
+- Bomberman Tournament.gba
+- Castlevania: Aria of Sorrow.gba
+- Castlevania: Circle of the Moon.gba
+- Castlevania: Harmony of Dissonance.gba
+- Crash Bandicoot: The Huge Adventure.gba
+- Crash Bandicoot 2: N-Tranced.gba
+- Deal or No Deal.gba
+- Donkey Kong Country 2.gba
+- Donkey Kong Country 3.gba
+- Donkey Kong Country.gba
+- Doom II.gba
+- Doom.gba
+- Duke Nukem Advance.gba
+- Lara Croft Tomb Raider: The Prophecy.gba
+- Mario & Luigi: Superstar Saga.gba
+- Mario Golf: Advance Tour.gba
+- Mario Kart: Super Circuit.gba
+- Mario Party Advance.gba
+- Mario vs. Donkey Kong.gba
+- Max Payne.gba
+- Mega Man Zero 2.gba
+- Mega Man Zero 3.gba
+- Mega Man Zero 4.gba
+- Mega Man Zero.gba
+- Metal Slug Advance.gba
+- Metroid: Zero Mission.gba
+- Pokemon: Emerald Version.gba
+- Pokemon: FireRed Version.gba
+- Pokemon: LeafGreen Version.gba
+- Pokemon: Ruby Version.gba
+- Pokemon: Sapphire Version.gba
+- Pokemon Mystery Dungeon: Red Rescue Team.gba
+- Pokemon Pinball: Ruby & Sapphire.gba
+- Sonic The Hedgehog: Genesis.gba
+- The Legend of Zelda: A Link to the Past & Four Swords.gba
+- The Legend of Zelda: The Minish Cap.gba
 
 ## Game Boy Color <img src="./icons/game-boy-color.svg" height="28" valign="middle" alt="">
 
-`26 titles` · `.gbc`
+`26 titles`
 
-- Dance Dance Revolution GB: Disney Mix
-- Dance Dance Revolution GB
-- Donkey Kong Country
-- Frogger
-- Game & Watch Gallery 2
-- Ghosts'n Goblins
-- Harvest Moon 2 GBC
-- Harvest Moon GB
-- Mario Golf
-- Mario Tennis
-- Mega Man Xtreme 2
-- Mega Man Xtreme
-- Pokemon: Crystal Version
-- Pokemon: Gold Version
-- Pokemon: Silver Version
-- Pokemon Pinball
-- Pokemon Puzzle Challenge
-- Pokemon Trading Card Game
-- Rayman
-- Super Mario Bros. Deluxe
-- The Legend of Zelda: Oracle of Ages
-- The Legend of Zelda: Oracle of Seasons
-- Uno
-- Who Wants to Be a Millionaire: 2nd Edition
-- Xtreme Sports
-- Yu-Gi-Oh!: Dark Duel Stories
+- Dance Dance Revolution GB: Disney Mix.gbc
+- Dance Dance Revolution GB.gbc
+- Donkey Kong Country.gbc
+- Frogger.gbc
+- Game & Watch Gallery 2.gbc
+- Ghosts'n Goblins.gbc
+- Harvest Moon 2 GBC.gbc
+- Harvest Moon GB.gbc
+- Mario Golf.gbc
+- Mario Tennis.gbc
+- Mega Man Xtreme 2.gbc
+- Mega Man Xtreme.gbc
+- Pokemon: Crystal Version.gbc
+- Pokemon: Gold Version.gbc
+- Pokemon: Silver Version.gbc
+- Pokemon Pinball.gbc
+- Pokemon Puzzle Challenge.gbc
+- Pokemon Trading Card Game.gbc
+- Rayman.gbc
+- Super Mario Bros. Deluxe.gbc
+- The Legend of Zelda: Oracle of Ages.gbc
+- The Legend of Zelda: Oracle of Seasons.gbc
+- Uno.gbc
+- Who Wants to Be a Millionaire: 2nd Edition.gbc
+- Xtreme Sports.gbc
+- Yu-Gi-Oh!: Dark Duel Stories.gbc
 
 ## GameCube <img src="./icons/gamecube.svg" height="28" valign="middle" alt="">
 
-`46 titles` · `.iso`
+`46 titles`
 
-- Animal Crossing
-- Burnout 2: Point of Impact
-- Burnout
-- Crazy Taxi
-- Curious George
-- Dance Dance Revolution: Mario Mix
-- Fantastic 4
-- Finding Nemo
-- Jimmy Neutron: Boy Genius
-- Looney Tunes: Back in Action
-- Luigi's Mansion
-- Mario Golf: Toadstool Tour
-- Mario Kart: Double Dash!!
-- Mario Party 4
-- Mario Party 5
-- Mario Party 6
-- Mario Party 7
-- Mario Power Tennis
-- Mario Superstar Baseball
-- Mortal Kombat: Deadly Alliance
-- Mortal Kombat: Deception
-- Nicktoons Unite!
-- Open Season
-- Outlaw Golf
-- Pac-Man Fever
-- Pac-Man Vs.
-- Paper Mario: The Thousand-Year Door
-- Pikmin 2
-- Pikmin
-- Pitfall: The Lost Expedition
-- Pixar: Cars
-- SpongeBob SquarePants: The Movie
-- SpongeBob SquarePants in: Battle for Bikini Bottom
-- Super Mario Strikers
-- Super Mario Sunshine
-- Super Monkey Ball
-- Super Smash Bros. Melee
-- Teen Titans
-- The Incredibles: Rise of the Underminer
-- The Incredibles
-- The Legend of Zelda: Ocarina of Time & Master Quest
-- The Legend of Zelda: The Wind Waker
-- The Simpsons: Hit & Run
-- Wallace & Gromit in Project Zoo
-- Wario World
-- WarioWare, Inc.: Mega Party Game$!
+- Animal Crossing.iso
+- Burnout 2: Point of Impact.iso
+- Burnout.iso
+- Crazy Taxi.iso
+- Curious George.iso
+- Dance Dance Revolution: Mario Mix.iso
+- Fantastic 4.iso
+- Finding Nemo.iso
+- Jimmy Neutron: Boy Genius.iso
+- Looney Tunes: Back in Action.iso
+- Luigi's Mansion.iso
+- Mario Golf: Toadstool Tour.iso
+- Mario Kart: Double Dash!!.iso
+- Mario Party 4.iso
+- Mario Party 5.iso
+- Mario Party 6.iso
+- Mario Party 7.iso
+- Mario Power Tennis.iso
+- Mario Superstar Baseball.iso
+- Mortal Kombat: Deadly Alliance.iso
+- Mortal Kombat: Deception.iso
+- Nicktoons Unite!.iso
+- Open Season.iso
+- Outlaw Golf.iso
+- Pac-Man Fever.iso
+- Pac-Man Vs..iso
+- Paper Mario: The Thousand-Year Door.iso
+- Pikmin 2.iso
+- Pikmin.iso
+- Pitfall: The Lost Expedition.iso
+- Pixar: Cars.iso
+- SpongeBob SquarePants: The Movie.iso
+- SpongeBob SquarePants in: Battle for Bikini Bottom.iso
+- Super Mario Strikers.iso
+- Super Mario Sunshine.iso
+- Super Monkey Ball.iso
+- Super Smash Bros. Melee.iso
+- Teen Titans.iso
+- The Incredibles: Rise of the Underminer.iso
+- The Incredibles.iso
+- The Legend of Zelda: Ocarina of Time & Master Quest.iso
+- The Legend of Zelda: The Wind Waker.iso
+- The Simpsons: Hit & Run.iso
+- Wallace & Gromit in Project Zoo.iso
+- Wario World.iso
+- WarioWare, Inc.: Mega Party Game$!.iso
 
 ## NES <img src="./icons/nes.svg" height="28" valign="middle" alt="">
 
-`42 titles` · `.nes`
+`42 titles`
 
-- Castlevania II: Simon's Quest
-- Castlevania III: Dracula's Curse
-- Castlevania
-- Championship Bowling
-- Commando
-- Contra
-- Donkey Kong 3
-- Donkey Kong Jr.
-- Donkey Kong
-- Dr. Mario
-- Ghosts'n Goblins
-- Golf
-- Home Alone 2: Lost in New York
-- Home Alone
-- Jeopardy!
-- Lemmings
-- Mario Bros.
-- Mega Man 2
-- Mega Man 3
-- Mega Man 4
-- Mega Man 5
-- Mega Man 6
-- Mega Man
-- Metal Gear
-- Metroid
-- Mike Tyson's Punch-Out!!
-- Pac-Man (Namco)
-- Paperboy
-- Prince of Persia
-- Spy vs Spy
-- Super Dodge Ball
-- Super Mario Bros. 2
-- Super Mario Bros. 3
-- Super Mario Bros.
-- Tennis
-- Tetris 2
-- Tetris
-- The Legend of Zelda
-- Where's Waldo
-- Yoshi's Cookie
-- Yoshi
-- Zelda II: The Adventure of Link
+- Castlevania II: Simon's Quest.nes
+- Castlevania III: Dracula's Curse.nes
+- Castlevania.nes
+- Championship Bowling.nes
+- Commando.nes
+- Contra.nes
+- Donkey Kong 3.nes
+- Donkey Kong Jr..nes
+- Donkey Kong.nes
+- Dr. Mario.nes
+- Ghosts'n Goblins.nes
+- Golf.nes
+- Home Alone 2: Lost in New York.nes
+- Home Alone.nes
+- Jeopardy!.nes
+- Lemmings.nes
+- Mario Bros..nes
+- Mega Man 2.nes
+- Mega Man 3.nes
+- Mega Man 4.nes
+- Mega Man 5.nes
+- Mega Man 6.nes
+- Mega Man.nes
+- Metal Gear.nes
+- Metroid.nes
+- Mike Tyson's Punch-Out!!.nes
+- Pac-Man (Namco).nes
+- Paperboy.nes
+- Prince of Persia.nes
+- Spy vs Spy.nes
+- Super Dodge Ball.nes
+- Super Mario Bros. 2.nes
+- Super Mario Bros. 3.nes
+- Super Mario Bros..nes
+- Tennis.nes
+- Tetris 2.nes
+- Tetris.nes
+- The Legend of Zelda.nes
+- Where's Waldo.nes
+- Yoshi's Cookie.nes
+- Yoshi.nes
+- Zelda II: The Adventure of Link.nes
 
 ## Nintendo 64 <img src="./icons/nintendo-64.svg" height="28" valign="middle" alt="">
 
-`40 titles` · `.n64 / .z64`
+`40 titles`
 
-- 007: GoldenEye
-- Banjo-Kazooie
-- Banjo-Tooie
-- Bomberman 64: The Second Attack!
-- Bomberman 64
-- Conker's Bad Fur Day
-- Diddy Kong Racing
-- Donkey Kong 64
-- Doom 64
-- Duke Nukem 64
-- F-Zero X
-- Harvest Moon 64
-- Mario Golf
-- Mario Kart 64
-- Mario Party 2
-- Mario Party 3
-- Mario Party
-- Mario Tennis
-- Mortal Kombat 4
-- Mortal Kombat Trilogy
-- NBA Jam 2000
-- NBA Jam 99
-- Paper Mario
-- Perfect Dark
-- Pokemon Puzzle League
-- Pokemon Snap
-- Pokemon Stadium 2
-- Pokemon Stadium
-- Road Rash 64
-- South Park
-- Star Fox 64
-- StarCraft 64
-- Super Mario 64
-- Super Smash Bros.
-- The Legend of Zelda: Majora's Mask
-- The Legend of Zelda: Ocarina of Time
-- Tigger's Honey Hunt
-- Tony Hawk's Pro Skater 2
-- Tony Hawk's Pro Skater 3
-- Tony Hawk's Pro Skater
+- 007: GoldenEye.n64
+- Banjo-Kazooie.n64
+- Banjo-Tooie.n64
+- Bomberman 64: The Second Attack!.n64
+- Bomberman 64.n64
+- Conker's Bad Fur Day.n64
+- Diddy Kong Racing.n64
+- Donkey Kong 64.n64
+- Doom 64.n64
+- Duke Nukem 64.n64
+- F-Zero X.n64
+- Harvest Moon 64.n64
+- Mario Golf.z64
+- Mario Kart 64.z64
+- Mario Party 2.z64
+- Mario Party 3.z64
+- Mario Party.z64
+- Mario Tennis.z64
+- Mortal Kombat 4.z64
+- Mortal Kombat Trilogy.z64
+- NBA Jam 2000.z64
+- NBA Jam 99.z64
+- Paper Mario.z64
+- Perfect Dark.n64
+- Pokemon Puzzle League.z64
+- Pokemon Snap.z64
+- Pokemon Stadium 2.z64
+- Pokemon Stadium.z64
+- Road Rash 64.n64
+- South Park.n64
+- Star Fox 64.n64
+- StarCraft 64.n64
+- Super Mario 64.z64
+- Super Smash Bros..z64
+- The Legend of Zelda: Majora's Mask.n64
+- The Legend of Zelda: Ocarina of Time.n64
+- Tigger's Honey Hunt.n64
+- Tony Hawk's Pro Skater 2.z64
+- Tony Hawk's Pro Skater 3.z64
+- Tony Hawk's Pro Skater.z64
 
 ## Nintendo DS <img src="./icons/nintendo-ds.svg" height="28" valign="middle" alt="">
 
-`12 titles` · `.nds`
+`12 titles`
 
-- Pokemon Black 2
-- Pokemon Black
-- Pokemon Conquest
-- Pokemon Dash
-- Pokemon Diamond
-- Pokemon HeartGold
-- Pokemon Pearl
-- Pokemon Platinum
-- Pokemon Ranger
-- Pokemon SoulSilver
-- Pokemon White 2
-- Pokemon White
+- Pokemon Black 2.nds
+- Pokemon Black.nds
+- Pokemon Conquest.nds
+- Pokemon Dash.nds
+- Pokemon Diamond.nds
+- Pokemon HeartGold.nds
+- Pokemon Pearl.nds
+- Pokemon Platinum.nds
+- Pokemon Ranger.nds
+- Pokemon SoulSilver.nds
+- Pokemon White 2.nds
+- Pokemon White.nds
 
 ## PlayStation 2 <img src="./icons/playstation-2.svg" height="28" valign="middle" alt="">
 
-`118 titles` · `.iso`
+`118 titles`
 
-- Beyond Good & Evil
-- Black
-- Blitz: The League
-- Bully
-- Burnout 2: Point of Impact
-- Burnout 3: Takedown
-- Burnout Dominator
-- Burnout Revenge
-- Burnout
-- Clock Tower 3
-- Crash: Mind over Mutant
-- Crash Bandicoot: The Wrath of Cortex
-- Crash Nitro Kart
-- Crash of the Titans
-- Crash Tag Team Racing
-- Crash Twinsanity
-- Dance Dance Revolution Extreme
-- Dead to Rights II
-- Dead to Rights
-- Devil May Cry 2 (Disc 1)
-- Devil May Cry 2 (Disc 2)
-- Devil May Cry 3: Dante's Awakening (Special Edition)
-- Devil May Cry
-- Disney-Pixar Ratatouille
-- DreamWorks Bee Movie Game
-- DreamWorks Madagascar
-- DreamWorks Over the Hedge
-- Enter the Matrix
-- Futurama
-- Gauntlet: Dark Legacy
-- Ghostbusters: The Video Game
-- God Hand
-- God of War II
-- God of War
-- Gran Turismo 4
-- Grand Theft Auto: Liberty City Stories
-- Grand Theft Auto: San Andreas
-- Grand Theft Auto: Vice City Stories
-- Grand Theft Auto: Vice City
-- Guitar Hero II
-- Guitar Hero III: Legends of Rock
-- Guitar Hero
-- Harry Potter and the Half-Blood Prince
-- Harry Potter and the Prisoner of Azkaban
-- Harry Potter and the Sorcerer's Stone
-- Jackass: The Game
-- Jak 3
-- Jak and Daxter: The Precursor Legacy
-- Jak II
-- Just Cause
-- Killzone
-- Kingdom Hearts: Final Mix (English Patch)
-- Kingdom Hearts II: Final Mix (English Patch)
-- LEGO Batman: The Videogame
-- LEGO Indiana Jones: The Original Adventures
-- LEGO Star Wars: The Video Game
-- LEGO Star Wars II: The Original Trilogy
-- Manhunt
-- Mega Man X Collection
-- Mercenaries 2: World in Flames
-- Metal Gear Solid 2: Substance
-- Metal Gear Solid 3: Subsistence (Disc 1)
-- Metal Gear Solid 3: Subsistence (Disc 2)
-- Metal Gear Solid 3: Subsistence (Disc 3)
-- Metal Slug Anthology
-- Midnight Club 3: DUB Edition Remix
-- Mortal Kombat: Armageddon (Premium Edition)
-- Mortal Kombat: Deadly Alliance
-- Mortal Kombat: Deception: Premium Pack Bonus Disc
-- Mortal Kombat: Deception
-- Mortal Kombat: Shaolin Monks
-- Need for Speed: Carbon
-- Need for Speed: Hot Pursuit 2
-- Need for Speed: Most Wanted: Black Edition
-- Need for Speed: ProStreet
-- Need for Speed: Underground
-- Open Season
-- Pac-Man World 2
-- PaRappa the Rapper 2
-- Prince of Persia: The Sands of Time
-- Prince of Persia: Warrior Within
-- Ratchet & Clank: Going Commando
-- Ratchet & Clank: Up Your Arsenal
-- Ratchet & Clank
-- Ratchet: Deadlocked
-- Resident Evil 4
-- Shadow of the Colossus
-- Shrek 2
-- Silent Hill 2
-- Silent Hill 3
-- Silent Hill 4: The Room
-- Sly 2: Band of Thieves
-- Spider-Man 2
-- Spider-Man 3
-- Spider-Man
-- SpongeBob SquarePants: Battle for Bikini Bottom
-- SpongeBob SquarePants: The Movie
-- SpongeBob's Atlantis SquarePantis
-- Spyro: A Hero's Tail
-- Spyro: Enter the Dragonfly
-- SSX 3
-- SSX Tricky
-- Tekken 4
-- Tekken 5
-- The Incredible Hulk
-- The Legend of Spyro: A New Beginning
-- The Legend of Spyro: Dawn of the Dragon
-- The Legend of Spyro: The Eternal Night
-- The Matrix: Path of Neo
-- The Punisher
-- The Simpsons: Hit & Run
-- The Sims 2
-- TimeSplitters 2
-- Tomb Raider: Anniversary
-- Tomb Raider: The Angel of Darkness
-- Transformers: The Game
-- Ultimate Spider-Man
-- WWE SmackDown vs. Raw 2011
+- Beyond Good & Evil.iso
+- Black.iso
+- Blitz: The League.iso
+- Bully.iso
+- Burnout 2: Point of Impact.iso
+- Burnout 3: Takedown.iso
+- Burnout Dominator.iso
+- Burnout Revenge.iso
+- Burnout.iso
+- Clock Tower 3.iso
+- Crash: Mind over Mutant.iso
+- Crash Bandicoot: The Wrath of Cortex.iso
+- Crash Nitro Kart.iso
+- Crash of the Titans.iso
+- Crash Tag Team Racing.iso
+- Crash Twinsanity.iso
+- Dance Dance Revolution Extreme.iso
+- Dead to Rights II.iso
+- Dead to Rights.iso
+- Devil May Cry 2 (Disc 1).iso
+- Devil May Cry 2 (Disc 2).iso
+- Devil May Cry 3: Dante's Awakening (Special Edition).iso
+- Devil May Cry.iso
+- Disney-Pixar Ratatouille.iso
+- DreamWorks Bee Movie Game.iso
+- DreamWorks Madagascar.iso
+- DreamWorks Over the Hedge.iso
+- Enter the Matrix.iso
+- Futurama.iso
+- Gauntlet: Dark Legacy.iso
+- Ghostbusters: The Video Game.iso
+- God Hand.iso
+- God of War II.iso
+- God of War.iso
+- Gran Turismo 4.iso
+- Grand Theft Auto: Liberty City Stories.iso
+- Grand Theft Auto: San Andreas.iso
+- Grand Theft Auto: Vice City Stories.iso
+- Grand Theft Auto: Vice City.iso
+- Guitar Hero II.iso
+- Guitar Hero III: Legends of Rock.iso
+- Guitar Hero.iso
+- Harry Potter and the Half-Blood Prince.iso
+- Harry Potter and the Prisoner of Azkaban.iso
+- Harry Potter and the Sorcerer's Stone.iso
+- Jackass: The Game.iso
+- Jak 3.iso
+- Jak and Daxter: The Precursor Legacy.iso
+- Jak II.iso
+- Just Cause.iso
+- Killzone.iso
+- Kingdom Hearts: Final Mix (English Patch).iso
+- Kingdom Hearts II: Final Mix (English Patch).iso
+- LEGO Batman: The Videogame.iso
+- LEGO Indiana Jones: The Original Adventures.iso
+- LEGO Star Wars: The Video Game.iso
+- LEGO Star Wars II: The Original Trilogy.iso
+- Manhunt.iso
+- Mega Man X Collection.iso
+- Mercenaries 2: World in Flames.iso
+- Metal Gear Solid 2: Substance.iso
+- Metal Gear Solid 3: Subsistence (Disc 1).iso
+- Metal Gear Solid 3: Subsistence (Disc 2).iso
+- Metal Gear Solid 3: Subsistence (Disc 3).iso
+- Metal Slug Anthology.iso
+- Midnight Club 3: DUB Edition Remix.iso
+- Mortal Kombat: Armageddon (Premium Edition).iso
+- Mortal Kombat: Deadly Alliance.iso
+- Mortal Kombat: Deception: Premium Pack Bonus Disc.iso
+- Mortal Kombat: Deception.iso
+- Mortal Kombat: Shaolin Monks.iso
+- Need for Speed: Carbon.iso
+- Need for Speed: Hot Pursuit 2.iso
+- Need for Speed: Most Wanted: Black Edition.iso
+- Need for Speed: ProStreet.iso
+- Need for Speed: Underground.iso
+- Open Season.iso
+- Pac-Man World 2.iso
+- PaRappa the Rapper 2.iso
+- Prince of Persia: The Sands of Time.iso
+- Prince of Persia: Warrior Within.iso
+- Ratchet & Clank: Going Commando.iso
+- Ratchet & Clank: Up Your Arsenal.iso
+- Ratchet & Clank.iso
+- Ratchet: Deadlocked.iso
+- Resident Evil 4.iso
+- Shadow of the Colossus.iso
+- Shrek 2.iso
+- Silent Hill 2.iso
+- Silent Hill 3.iso
+- Silent Hill 4: The Room.iso
+- Sly 2: Band of Thieves.iso
+- Spider-Man 2.iso
+- Spider-Man 3.iso
+- Spider-Man.iso
+- SpongeBob SquarePants: Battle for Bikini Bottom.iso
+- SpongeBob SquarePants: The Movie.iso
+- SpongeBob's Atlantis SquarePantis.iso
+- Spyro: A Hero's Tail.iso
+- Spyro: Enter the Dragonfly.iso
+- SSX 3.iso
+- SSX Tricky.iso
+- Tekken 4.iso
+- Tekken 5.iso
+- The Incredible Hulk.iso
+- The Legend of Spyro: A New Beginning.iso
+- The Legend of Spyro: Dawn of the Dragon.iso
+- The Legend of Spyro: The Eternal Night.iso
+- The Matrix: Path of Neo.iso
+- The Punisher.iso
+- The Simpsons: Hit & Run.iso
+- The Sims 2.iso
+- TimeSplitters 2.iso
+- Tomb Raider: Anniversary.iso
+- Tomb Raider: The Angel of Darkness.iso
+- Transformers: The Game.iso
+- Ultimate Spider-Man.iso
+- WWE SmackDown vs. Raw 2011.iso
 
 ## PlayStation 3 <img src="./icons/playstation-3.svg" height="28" valign="middle" alt="">
 
-`29 titles` · `folder / .pkg`
+`29 titles`
 
-- Army of Two
-- Army of Two: The 40th Day
-- Army of Two: The Devil's Cartel
-- Blitz: The League II
-- Dead to Rights: Retribution
-- Deadliest Warrior: Ancient Combat
-- God of War: Ascension
-- God of War: Chains of Olympus
-- God of War: Ghost of Sparta
-- God of War III
-- inFamous
-- inFamous 2
-- LittleBigPlanet 3
-- Midnight Club: Los Angeles
-- Mortal Kombat vs. DC Universe
-- Ratchet & Clank: All 4 One
-- Ratchet & Clank: Full Frontal Assault
-- Ratchet & Clank: Into the Nexus
-- Ratchet & Clank Future: A Crack in Time
-- Ratchet & Clank Future: Tools of Destruction
-- Simpsons The Game
-- Skate 3
-- Spider-Man 3
-- Splatterhouse
-- SSX
-- The Amazing Spider-Man 2
-- Uncharted: Drakes Fortune
-- Uncharted 2: Among Thieves
-- Uncharted 3: Drakes Deception
+- Army of Two.SFB
+- Army of Two: The 40th Day.SFB
+- Army of Two: The Devil's Cartel.SFB
+- Blitz: The League II.SFB
+- Dead to Rights: Retribution.SFB
+- Deadliest Warrior: Ancient Combat.pkg
+- God of War: Ascension.SFB
+- God of War: Chains of Olympus.pkg
+- God of War: Ghost of Sparta.pkg
+- God of War III.SFB
+- inFamous.SFB
+- inFamous 2.SFB
+- LittleBigPlanet 3.SFB
+- Midnight Club: Los Angeles.SFB
+- Mortal Kombat vs. DC Universe.SFB
+- Ratchet & Clank: All 4 One.SFB
+- Ratchet & Clank: Full Frontal Assault.SFB
+- Ratchet & Clank: Into the Nexus.SFB
+- Ratchet & Clank Future: A Crack in Time.SFB
+- Ratchet & Clank Future: Tools of Destruction.SFB
+- Simpsons The Game.SFB
+- Skate 3.SFB
+- Spider-Man 3.SFB
+- Splatterhouse.SFB
+- SSX.SFB
+- The Amazing Spider-Man 2.SFB
+- Uncharted: Drakes Fortune.SFB
+- Uncharted 2: Among Thieves.SFB
+- Uncharted 3: Drakes Deception.SFB
 
 ## PlayStation 4 <img src="./icons/playstation-4.svg" height="28" valign="middle" alt="">
 
-`2 titles` · `.pkg`
+`2 titles`
 
-- Bloodborne Game of the Year Edition
-- inFAMOUS Second Son
+- Bloodborne Game of the Year Edition.pkg
+- inFAMOUS Second Son.pkg
 
 ## SNES <img src="./icons/snes.svg" height="28" valign="middle" alt="">
 
-`56 titles` · `.sfc`
+`56 titles`
 
-- Aladdin
-- Battletoads in Battlemaniacs
-- Battletoads-Double Dragon
-- Castlevania: Dracula X
-- Chrono Trigger
-- Clue
-- Contra III: The Alien Wars
-- Donkey Kong Country 2: Diddy's Kong Quest
-- Donkey Kong Country 3: Dixie Kong's Double Trouble!
-- Donkey Kong Country
-- Doom
-- Earthworm Jim 2
-- Earthworm Jim
-- F-Zero
-- Fatal Fury 2
-- Fatal Fury Special
-- Fatal Fury
-- Final Fantasy: Mystic Quest
-- Final Fantasy II
-- Final Fantasy III
-- Frogger
-- Kirby's Dream Course
-- Lemmings 2: The Tribes
-- Lemmings
-- Mega Man 7
-- Mega Man X
-- Mega Man X2
-- Mega Man X3
-- Monopoly
-- Mortal Kombat 3
-- Mortal Kombat II
-- Mortal Kombat
-- Ms. Pac-Man
-- NBA Jam: Tournament Edition
-- NBA Jam
-- Pac-Man 2: The New Adventures
-- SimCity
-- Star Fox 2
-- Star Fox
-- Street Fighter II Turbo
-- Super Adventure Island II
-- Super Adventure Island
-- Super Mario All-Stars
-- Super Mario Kart
-- Super Mario RPG: Legend of the Seven Stars
-- Super Mario World 2: Yoshi's Island
-- Super Mario World
-- Super Punch-Out!!
-- Super Tennis
-- Tetris 2
-- The Legend of Zelda: A Link to the Past
-- The Lion King
-- Toy Story
-- Wolfenstein 3-D
-- Yoshi's Cookie
-- Yoshi's Safari
+- Aladdin.sfc
+- Battletoads in Battlemaniacs.sfc
+- Battletoads-Double Dragon.sfc
+- Castlevania: Dracula X.sfc
+- Chrono Trigger.sfc
+- Clue.sfc
+- Contra III: The Alien Wars.sfc
+- Donkey Kong Country 2: Diddy's Kong Quest.sfc
+- Donkey Kong Country 3: Dixie Kong's Double Trouble!.sfc
+- Donkey Kong Country.sfc
+- Doom.sfc
+- Earthworm Jim 2.sfc
+- Earthworm Jim.sfc
+- F-Zero.sfc
+- Fatal Fury 2.sfc
+- Fatal Fury Special.sfc
+- Fatal Fury.sfc
+- Final Fantasy: Mystic Quest.sfc
+- Final Fantasy II.sfc
+- Final Fantasy III.sfc
+- Frogger.sfc
+- Kirby's Dream Course.sfc
+- Lemmings 2: The Tribes.sfc
+- Lemmings.sfc
+- Mega Man 7.sfc
+- Mega Man X.sfc
+- Mega Man X2.sfc
+- Mega Man X3.sfc
+- Monopoly.sfc
+- Mortal Kombat 3.sfc
+- Mortal Kombat II.sfc
+- Mortal Kombat.sfc
+- Ms. Pac-Man.sfc
+- NBA Jam: Tournament Edition.sfc
+- NBA Jam.sfc
+- Pac-Man 2: The New Adventures.sfc
+- SimCity.sfc
+- Star Fox 2.sfc
+- Star Fox.sfc
+- Street Fighter II Turbo.sfc
+- Super Adventure Island II.sfc
+- Super Adventure Island.sfc
+- Super Mario All-Stars.sfc
+- Super Mario Kart.sfc
+- Super Mario RPG: Legend of the Seven Stars.sfc
+- Super Mario World 2: Yoshi's Island.sfc
+- Super Mario World.sfc
+- Super Punch-Out!!.sfc
+- Super Tennis.sfc
+- Tetris 2.sfc
+- The Legend of Zelda: A Link to the Past.sfc
+- The Lion King.sfc
+- Toy Story.sfc
+- Wolfenstein 3-D.sfc
+- Yoshi's Cookie.sfc
+- Yoshi's Safari.sfc
 
 ## Nintendo Switch <img src="./icons/nintendo-switch.svg" height="28" valign="middle" alt="">
 
-`14 titles` · `.nsp`
+`14 titles`
 
-- Luigis Mansion 2 HD
-- Luigi’s Mansion 3
-- Mario Golf Super Rush
-- Mario Party Superstars
-- Mario Tennis Aces
-- Paper Mario The Origami King
-- Super Mario 3D All-Stars
-- Super Mario 3D World Bowsers Fury
-- Super Mario Bros. Wonder
-- Super Mario Odyssey
-- Super Mario Party
-- Super Mario Party Jamboree
-- Super Smash Bros Ultimate
-- The Legend of Zelda Tears of the Kingdom
+- Luigis Mansion 2 HD.nsp
+- Luigi’s Mansion 3.nsp
+- Mario Golf Super Rush.nsp
+- Mario Party Superstars.nsp
+- Mario Tennis Aces.nsp
+- Paper Mario The Origami King.nsp
+- Super Mario 3D All-Stars.nsp
+- Super Mario 3D World Bowsers Fury.nsp
+- Super Mario Bros. Wonder.nsp
+- Super Mario Odyssey.nsp
+- Super Mario Party.nsp
+- Super Mario Party Jamboree.nsp
+- Super Smash Bros Ultimate.nsp
+- The Legend of Zelda Tears of the Kingdom.nsp
 
 ## Wii <img src="./icons/wii.svg" height="28" valign="middle" alt="">
 
-`22 titles` · `.iso / .wbfs`
+`22 titles`
 
-- Donkey Kong Country Returns
-- Harry Potter and the Deathly Hallows: Part 1
-- Harry Potter and the Deathly Hallows: Part 2
-- Harry Potter and the Half-Blood Prince
-- Harry Potter and the Order of the Phoenix
-- Mario Kart Wii
-- Mario Party 8
-- Mario Party 9
-- Mario Power Tennis
-- Mario Sports Mii
-- Mario Strikers Charged
-- Mario Super Sluggers
-- MLB Power Pros 2008
-- Mortal Kombat: Armageddon
-- Pirates vs Ninjas Dodgeball
-- Punch-Out!!
-- Super Mario All-Stars
-- Super Mario Bros. 3+
-- Super Mario Galaxy 2
-- Super Mario Galaxy
-- Super Paper Mario
-- Super Smash Bros. Brawl
+- Donkey Kong Country Returns.iso
+- Harry Potter and the Deathly Hallows: Part 1.iso
+- Harry Potter and the Deathly Hallows: Part 2.iso
+- Harry Potter and the Half-Blood Prince.iso
+- Harry Potter and the Order of the Phoenix.iso
+- Mario Kart Wii.wbfs
+- Mario Party 8.wbfs
+- Mario Party 9.wbfs
+- Mario Power Tennis.wbfs
+- Mario Sports Mii.wbfs
+- Mario Strikers Charged.wbfs
+- Mario Super Sluggers.wbfs
+- MLB Power Pros 2008.wbfs
+- Mortal Kombat: Armageddon.wbfs
+- Pirates vs Ninjas Dodgeball.wbfs
+- Punch-Out!!.wbfs
+- Super Mario All-Stars.wbfs
+- Super Mario Bros. 3+.wbfs
+- Super Mario Galaxy 2.wbfs
+- Super Mario Galaxy.wbfs
+- Super Paper Mario.wbfs
+- Super Smash Bros. Brawl.wbfs
 
 ## Wii U <img src="./icons/wii-u.svg" height="28" valign="middle" alt="">
 
-`16 titles` · `.wux`
+`16 titles`
 
-- Bayonetta 2
-- Bayonetta
-- Captain Toad: Treasure Tracker
-- Donkey Kong Country: Tropical Freeze
-- Kirby and the Rainbow Curse
-- Mario Kart 8
-- Mario Party 10
-- New Super Mario Bros. U + New Super Luigi U
-- Paper Mario: Color Splash
-- Pikmin 3
-- Sonic Boom: Rise of Lyric
-- Super Mario 3D World
-- Super Smash Bros. for Wii U
-- The Legend of Zelda: Breath of the Wild
-- The Legend of Zelda: The Wind Waker HD
-- Yoshi's Woolly World
+- Bayonetta 2.wux
+- Bayonetta.wux
+- Captain Toad: Treasure Tracker.wux
+- Donkey Kong Country: Tropical Freeze.wux
+- Kirby and the Rainbow Curse.wux
+- Mario Kart 8.wux
+- Mario Party 10.wux
+- New Super Mario Bros. U + New Super Luigi U.wux
+- Paper Mario: Color Splash.wux
+- Pikmin 3.wux
+- Sonic Boom: Rise of Lyric.wux
+- Super Mario 3D World.wux
+- Super Smash Bros. for Wii U.wux
+- The Legend of Zelda: Breath of the Wild.wux
+- The Legend of Zelda: The Wind Waker HD.wux
+- Yoshi's Woolly World.wux
 
 ## Xbox 360 <img src="./icons/xbox-360.svg" height="28" valign="middle" alt="">
 
-`11 titles` · `.iso`
+`11 titles`
 
-- Crackdown
-- Forza Horizon 2
-- Forza Horizon
-- Forza Motorsport 2
-- Forza Motorsport 3: Ultimate Collection (Disc 1) (Play Disc)
-- Forza Motorsport 3: Ultimate Collection (Disc 2) (Content Install Disc)
-- Forza Motorsport 4 (Disc 1) (Play Disc)
-- Forza Motorsport 4 (Disc 2) (Content Install Disc)
-- Gears of War: Judgment
-- Gears of War 2
-- Gears of War 3
+- Crackdown.iso
+- Forza Horizon 2.iso
+- Forza Horizon.iso
+- Forza Motorsport 2.iso
+- Forza Motorsport 3: Ultimate Collection (Disc 1) (Play Disc).iso
+- Forza Motorsport 3: Ultimate Collection (Disc 2) (Content Install Disc).iso
+- Forza Motorsport 4 (Disc 1) (Play Disc).iso
+- Forza Motorsport 4 (Disc 2) (Content Install Disc).iso
+- Gears of War: Judgment.iso
+- Gears of War 2.iso
+- Gears of War 3.iso
 
 ## PC <img src="./icons/pc.svg" height="28" valign="middle" alt="">
 
-`31 titles` · `.zip`
+`31 titles`
 
-- Beyond Good and Evil
-- Black and White + Creature isle
-- Black and White 2 Complete Collection
-- Clone Hero
-- Dead Block
-- Dead to Rights
-- Deadpool
-- Game of Thrones a Telltale Games Series
-- Ghostbusters: The Video Game
-- Grand Theft Auto III
-- Grand Theft Auto San Andreas
-- Grand Theft Auto Vice City
-- Guitar Hero III
-- Hard Time
-- House of the Dead III
-- Kenshi
-- Loadout
-- Marble Blast Ultra
-- Marvel Ultimate Alliance 2
-- Marvel Ultimate Alliance
-- Minecraft Story Mode
-- No One Lives Forever 2
-- No One Lives Forever
-- PvZ Fusion 2.7
-- Skate3
-- Super-Mario 64 CO-OP
-- The Jackbox Collection
-- The Punisher
-- The Sims 2: Complete
-- The Sims 4
-- Total Overdose
+- Beyond Good and Evil.zip
+- Black and White + Creature isle.zip
+- Black and White 2 Complete Collection.zip
+- Dead Block.zip
+- Dead to Rights.zip
+- Deadpool.zip
+- Game of Thrones a Telltale Games Series.zip
+- Ghostbusters: The Video Game.zip
+- Grand Theft Auto III.zip
+- Grand Theft Auto San Andreas.zip
+- Grand Theft Auto Vice City.zip
+- Guitar Hero III.zip
+- Hard Time.zip
+- House of the Dead III.zip
+- Kenshi.zip
+- Loadout.zip
+- Marble Blast Ultra.zip
+- Marvel Ultimate Alliance 2.zip
+- Marvel Ultimate Alliance.zip
+- Minecraft Story Mode.zip
+- No One Lives Forever 2.zip
+- No One Lives Forever.zip
+- PvZ Fusion 2.7.zip
+- Skate3.zip
+- Super-Mario 64 CO-OP.zip
+- The Jackbox Collection.zip
+- The Punisher.zip
+- The Sims 2: Complete.zip
+- The Sims 4.zip
+- Total Overdose.zip
