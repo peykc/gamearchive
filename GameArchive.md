@@ -4,30 +4,30 @@
 
 ## Platforms
 
-| Platform | Titles |
-| --- | ---: |
-| **[Game Boy](#game-boy)** <img src="./icons/game-boy.svg" height="20" valign="middle" alt=""> | 35 |
-| **[Game Boy Advance](#game-boy-advance)** <img src="./icons/game-boy-advance.svg" height="20" valign="middle" alt=""> | 39 |
-| **[Game Boy Color](#game-boy-color)** <img src="./icons/game-boy-color.svg" height="20" valign="middle" alt=""> | 26 |
-| **[GameCube](#gamecube)** <img src="./icons/gamecube.svg" height="20" valign="middle" alt=""> | 46 |
-| **[NES](#nes)** <img src="./icons/nes.svg" height="20" valign="middle" alt=""> | 42 |
-| **[Nintendo 64](#nintendo-64)** <img src="./icons/nintendo-64.svg" height="20" valign="middle" alt=""> | 40 |
-| **[Nintendo DS](#nintendo-ds)** <img src="./icons/nintendo-ds.svg" height="20" valign="middle" alt=""> | 12 |
-| **[PlayStation 2](#playstation-2)** <img src="./icons/playstation-2.svg" height="20" valign="middle" alt=""> | 118 |
-| **[PlayStation 3](#playstation-3)** <img src="./icons/playstation-3.svg" height="20" valign="middle" alt=""> | 29 |
-| **[PlayStation 4](#playstation-4)** <img src="./icons/playstation-4.svg" height="20" valign="middle" alt=""> | 2 |
-| **[SNES](#snes)** <img src="./icons/snes.svg" height="20" valign="middle" alt=""> | 56 |
-| **[Nintendo Switch](#nintendo-switch)** <img src="./icons/nintendo-switch.svg" height="20" valign="middle" alt=""> | 14 |
-| **[Wii](#wii)** <img src="./icons/wii.svg" height="20" valign="middle" alt=""> | 22 |
-| **[Wii U](#wii-u)** <img src="./icons/wii-u.svg" height="20" valign="middle" alt=""> | 16 |
-| **[Xbox 360](#xbox-360)** <img src="./icons/xbox-360.svg" height="20" valign="middle" alt=""> | 11 |
-| **[PC](#pc)** <img src="./icons/pc.svg" height="20" valign="middle" alt=""> | 31 |
+| Platform | Format | Titles |
+| --- | --- | ---: |
+| **[Game Boy](#game-boy)** <img src="./icons/game-boy.svg" height="20" valign="middle" alt=""> | `.gb` | 35 |
+| **[Game Boy Advance](#game-boy-advance)** <img src="./icons/game-boy-advance.svg" height="20" valign="middle" alt=""> | `.gba` | 39 |
+| **[Game Boy Color](#game-boy-color)** <img src="./icons/game-boy-color.svg" height="20" valign="middle" alt=""> | `.gbc` | 26 |
+| **[GameCube](#gamecube)** <img src="./icons/gamecube.svg" height="20" valign="middle" alt=""> | `.iso` | 46 |
+| **[NES](#nes)** <img src="./icons/nes.svg" height="20" valign="middle" alt=""> | `.nes` | 42 |
+| **[Nintendo 64](#nintendo-64)** <img src="./icons/nintendo-64.svg" height="20" valign="middle" alt=""> | `.n64 / .z64` | 40 |
+| **[Nintendo DS](#nintendo-ds)** <img src="./icons/nintendo-ds.svg" height="20" valign="middle" alt=""> | `.nds` | 12 |
+| **[PlayStation 2](#playstation-2)** <img src="./icons/playstation-2.svg" height="20" valign="middle" alt=""> | `.iso` | 118 |
+| **[PlayStation 3](#playstation-3)** <img src="./icons/playstation-3.svg" height="20" valign="middle" alt=""> | `folder / .pkg` | 29 |
+| **[PlayStation 4](#playstation-4)** <img src="./icons/playstation-4.svg" height="20" valign="middle" alt=""> | `folder` | 2 |
+| **[SNES](#snes)** <img src="./icons/snes.svg" height="20" valign="middle" alt=""> | `.sfc` | 56 |
+| **[Nintendo Switch](#nintendo-switch)** <img src="./icons/nintendo-switch.svg" height="20" valign="middle" alt=""> | `folder` | 14 |
+| **[Wii](#wii)** <img src="./icons/wii.svg" height="20" valign="middle" alt=""> | `.iso / .wbfs` | 22 |
+| **[Wii U](#wii-u)** <img src="./icons/wii-u.svg" height="20" valign="middle" alt=""> | `.wux` | 16 |
+| **[Xbox 360](#xbox-360)** <img src="./icons/xbox-360.svg" height="20" valign="middle" alt=""> | `.iso` | 11 |
+| **[PC](#pc)** <img src="./icons/pc.svg" height="20" valign="middle" alt=""> | `.zip` | 31 |
 
 ---
 
 ## Game Boy <img src="./icons/game-boy.svg" height="28" valign="middle" alt="">
 
-`35 titles`
+`35 titles · .gb`
 
 - Adventure Island II: Aliens in Paradise
 - Adventure Island
@@ -67,7 +67,7 @@
 
 ## Game Boy Advance <img src="./icons/game-boy-advance.svg" height="28" valign="middle" alt="">
 
-`39 titles`
+`39 titles · .gba`
 
 - Aladdin
 - Alien Hominid
@@ -111,7 +111,7 @@
 
 ## Game Boy Color <img src="./icons/game-boy-color.svg" height="28" valign="middle" alt="">
 
-`26 titles`
+`26 titles · .gbc`
 
 - Dance Dance Revolution GB: Disney Mix
 - Dance Dance Revolution GB
@@ -142,7 +142,7 @@
 
 ## GameCube <img src="./icons/gamecube.svg" height="28" valign="middle" alt="">
 
-`46 titles`
+`46 titles · .iso`
 
 - Animal Crossing
 - Burnout 2: Point of Impact
@@ -193,7 +193,7 @@
 
 ## NES <img src="./icons/nes.svg" height="28" valign="middle" alt="">
 
-`42 titles`
+`42 titles · .nes`
 
 - Castlevania II: Simon's Quest
 - Castlevania III: Dracula's Curse
@@ -240,7 +240,7 @@
 
 ## Nintendo 64 <img src="./icons/nintendo-64.svg" height="28" valign="middle" alt="">
 
-`40 titles`
+`40 titles · .n64 / .z64`
 
 - 007: GoldenEye
 - Banjo-Kazooie
@@ -285,7 +285,7 @@
 
 ## Nintendo DS <img src="./icons/nintendo-ds.svg" height="28" valign="middle" alt="">
 
-`12 titles`
+`12 titles · .nds`
 
 - Pokemon Black 2
 - Pokemon Black
@@ -302,7 +302,7 @@
 
 ## PlayStation 2 <img src="./icons/playstation-2.svg" height="28" valign="middle" alt="">
 
-`118 titles`
+`118 titles · .iso`
 
 - Beyond Good & Evil
 - Black
@@ -425,7 +425,7 @@
 
 ## PlayStation 3 <img src="./icons/playstation-3.svg" height="28" valign="middle" alt="">
 
-`29 titles`
+`29 titles · folder / .pkg`
 
 - Army of Two
 - Army of Two: The 40th Day
@@ -459,14 +459,14 @@
 
 ## PlayStation 4 <img src="./icons/playstation-4.svg" height="28" valign="middle" alt="">
 
-`2 titles`
+`2 titles · .pkg`
 
 - Bloodborne Game of the Year Edition
 - inFAMOUS Second Son
 
 ## SNES <img src="./icons/snes.svg" height="28" valign="middle" alt="">
 
-`56 titles`
+`56 titles · .sfc`
 
 - Aladdin
 - Battletoads in Battlemaniacs
@@ -527,7 +527,7 @@
 
 ## Nintendo Switch <img src="./icons/nintendo-switch.svg" height="28" valign="middle" alt="">
 
-`14 titles`
+`14 titles · .nsp`
 
 - Luigis Mansion 2 HD
 - Luigi’s Mansion 3
@@ -546,7 +546,7 @@
 
 ## Wii <img src="./icons/wii.svg" height="28" valign="middle" alt="">
 
-`22 titles`
+`22 titles · .iso / .wbfs`
 
 - Donkey Kong Country Returns
 - Harry Potter and the Deathly Hallows: Part 1
@@ -573,7 +573,7 @@
 
 ## Wii U <img src="./icons/wii-u.svg" height="28" valign="middle" alt="">
 
-`16 titles`
+`16 titles · .wux`
 
 - Bayonetta 2
 - Bayonetta
@@ -594,7 +594,7 @@
 
 ## Xbox 360 <img src="./icons/xbox-360.svg" height="28" valign="middle" alt="">
 
-`11 titles`
+`11 titles · .iso`
 
 - Crackdown
 - Forza Horizon 2
@@ -610,7 +610,7 @@
 
 ## PC <img src="./icons/pc.svg" height="28" valign="middle" alt="">
 
-`31 titles`
+`31 titles · .zip`
 
 - Beyond Good and Evil
 - Black and White + Creature isle
